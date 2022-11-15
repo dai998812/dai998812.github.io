@@ -1,0 +1,9 @@
+p{  
+    font-size: 25px;
+    text-align: center;
+    color: #0000FF;
+}
+input{
+    color:#00FFFF; border: solid #9ACD32; font-size:30px;
+}
+input[type="reset"]{ margin: auto; display:block;  color: #FF0000; font-size: 30px;}
